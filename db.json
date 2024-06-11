@@ -1,0 +1,49 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "student_name": "tien1",
+      "email": "tien1@example.com",
+      "address": "Thái nguyên",
+      "phone": "321312",
+      "status": true,
+      "created_at": "2024-06-10"
+    },
+    {
+      "id": "2",
+      "student_name": "tien2",
+      "email": "tien2@example.com",
+      "address": "Thái nguyên",
+      "phone": "3123123",
+      "status": false,
+      "created_at": "2024-06-10"
+    },
+    {
+      "id": "3",
+      "student_name": "tien3",
+      "email": "tien3@example.com",
+      "address": "Thái nguyên",
+      "phone": "3123123",
+      "status": true,
+      "created_at": "2024-06-10"
+    },
+    {
+      "id": 1855,
+      "student_name": "Tien",
+      "email": "tien@gmail.com",
+      "address": "Thái nguyên",
+      "phone": "12312321",
+      "status": true,
+      "created_at": "2024-06-11"
+    },
+    {
+      "id": 4862,
+      "student_name": "Tien",
+      "email": "tien@gmail.com",
+      "address": "Thái nguyên",
+      "phone": "12312321",
+      "status": true,
+      "created_at": "2024-06-11"
+    }
+  ]
+}
